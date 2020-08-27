@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CourseHistory()
+comment1.params=
+comment1.target=void\ displayCourseHistory()
+comment1.text=\r\n\ This\ method\ lists\ all\ of\ the\ courses\ in\ the\ ArrayList\ in\ the\ order\ they\ appear\ in\r\n\ the\ input\ file\ (which\ is\ in\ the\ order\ the\ courses\ were\ taken).\r\n
+comment2.params=
+comment2.target=void\ summaryReport()
+comment2.text=\ \r\n\ This\ method\ displays\ a\ summary\ report\ based\ on\ the\ data\ in\ the\ ArrayList.\ The\ summary\r\n\ reports\ the\ total\ number\ of\ credits\ earned\ and\ the\ total\ GPA.\ \r\n
+comment3.params=
+comment3.target=void\ distributionAreaFulfillment()
+comment3.text=\r\n\ The\ method\ displays\ a\ report\ that\ shows\ the\ user\u2019s\ status\ toward\ meeting\r\n\ distribution\ area\ requirements.\r\n
+comment4.params=
+comment4.target=void\ CompetencyStatus()
+comment4.text=\r\n\ The\ method\ displays\ a\ report\ that\ shows\ the\ user\u2019s\ status\ toward\ meeting\ \r\n\ competency\ (W,\ Q,\ S)\ requirements.\r\n
+comment5.params=
+comment5.target=void\ fullReport()
+comment5.text=\r\n\ The\ method\ displays\ a\ full\ report\ that\ consists\ of\ the\ summary\ information\ of\ total\ credits,\ \r\n\ total\ GPA\ earned,\ distribution\ area\ fulfillment\ details,\ and\ competency\ status.\r\n
+comment6.params=
+comment6.target=void\ sort()
+comment6.text=\r\n\ The\ method\ displays\ a\ list\ of\ all\ the\ courses\ in\ the\ ArrayList,\ such\ that\ the\ courses\ are\r\n\ sorted\ by\ GPA\ (from\ highest\ GPA\ to\ lowest\ GPA).\r\n
+numComments=7
